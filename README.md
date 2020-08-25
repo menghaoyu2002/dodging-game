@@ -1,3 +1,3 @@
-#instructions
-wasd to move
+instructions:
+wasd to move,
 dodge the fireballs
